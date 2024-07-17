@@ -30,8 +30,15 @@ If you wish to support the project you can do so here: https://www.patreon.com/u
 
 <img src="https://i.imgur.com/VLTqSrm.png" width="300" />
 <img src="https://i.imgur.com/gtOPgy0.png" width="300" />
+<img src="https://i.imgur.com/PCCTTjD.jpg" width="50%" />
 
 ## Smoothie
+<img src="https://i.imgur.com/Vut8Z3y.png" width="50%" />
+<img src="https://i.imgur.com/WAtEK2K.png" width="50%" />
+<img src="https://i.imgur.com/AxPNip4.png" width="50%" />
+<img src="https://i.imgur.com/JzGrvkR.png" width="50%" />
+<img src="https://i.imgur.com/EVBmD3k.png" width="50%" />
+<img src="https://i.imgur.com/cT81NpX.jpg" width="50%" />
 
 ## CardsAgainstDiscord
 CardsAgainstDiscord was a Discord bot inspired by Cards against Humanity that allowed users to play games and vote on the funniest responses.
@@ -39,6 +46,11 @@ It was shut down due to a lack of funding, but was popular among many.
 
 <img src="https://i.imgur.com/T0sixFQ.png" width="300" />
 <img src="https://i.imgur.com/gjeGPlH.png" width="300" />
+<img src="https://i.imgur.com/MHqkQ0w.png" width="500" />
+<img src="https://i.imgur.com/KWPZreu.png" width="500" />
 
 ## Freelancing
 Occationally I've been doing freelancing to help pay for my education. Mostly creating Discord Bots in Python.
+
+# Other Projects
+
