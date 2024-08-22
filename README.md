@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/C4E16AQFej7fLZUdGRw/profile-displaybackgroundimage-shrink_350_1400/0/1638921781158?e=1726099200&v=beta&t=b0ZrMab6xcjb_HaONCg3wzUttAw9iZMAA4rgRyJUDyc" />
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQHxO13Nz1kcFQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1723880926694?e=1729728000&v=beta&t=qQjI1QKsaMqZGrskVlJUSoQ5KvfPoffktoCisp3DYvE" />
 
 [![Programming Languages](https://skillicons.dev/icons?i=js,ts,python,cs,net,java,nodejs)]()
 [![Mobile Development](https://skillicons.dev/icons?i=swift)]()
