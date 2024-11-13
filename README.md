@@ -22,35 +22,15 @@ If you wish to hire me, you can send me an email at [sander.lastad@gmail.com](ma
 
 # My Projects
 ## UltimateRPG
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/invite/ultimaterpg)
-
-### About:
 UltimateRPG is a text-based RPG game that may be invited to Discord servers to engage your users.
-If you wish to support the project you can do so here: https://www.patreon.com/ultimaterpg 
+It was developed in 2019, but wasn't fully developed before 2020. The bot has been added to more than 17 thousand servers, and has generated
+enough revenue to buy me my very first car.
 
-<img src="https://i.imgur.com/VLTqSrm.png" width="300" />
-<img src="https://i.imgur.com/gtOPgy0.png" width="300" />
-<img src="https://i.imgur.com/PCCTTjD.jpg" width="50%" />
+# Nordev AS
+As of September 2024, me and some very good friends of mine founded a company called Nordev AS.
+The goal? To develop applications used world wide.
 
-## Smoothie
-<img src="https://i.imgur.com/Vut8Z3y.png" width="50%" />
-<img src="https://i.imgur.com/WAtEK2K.png" width="50%" />
-<img src="https://i.imgur.com/AxPNip4.png" width="50%" />
-<img src="https://i.imgur.com/JzGrvkR.png" width="50%" />
-<img src="https://i.imgur.com/EVBmD3k.png" width="50%" />
-<img src="https://i.imgur.com/cT81NpX.jpg" width="50%" />
+I cannot reveal too much at this time, but time will tell what we have in store for the world.
 
-## CardsAgainstDiscord
-CardsAgainstDiscord was a Discord bot inspired by Cards against Humanity that allowed users to play games and vote on the funniest responses.
-It was shut down due to a lack of funding, but was popular among many.
 
-<img src="https://i.imgur.com/T0sixFQ.png" width="300" />
-<img src="https://i.imgur.com/gjeGPlH.png" width="300" />
-<img src="https://i.imgur.com/MHqkQ0w.png" width="500" />
-<img src="https://i.imgur.com/KWPZreu.png" width="500" />
-
-## Freelancing
-Occationally I've been doing freelancing to help pay for my education. Mostly creating Discord Bots in Python.
-
-# Other Projects
 
