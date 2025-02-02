@@ -1,7 +1,6 @@
 <img src="https://media.licdn.com/dms/image/v2/D4D16AQF_bNrOJbevwQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1737751808592?e=1743638400&v=beta&t=Jgn3WssDWor-u-ePvei7K_Z3ZbvwqKg2veE5Wij3woM" />
 
-[![Programming Languages](https://skillicons.dev/icons?i=js,ts,python,cs,net,java,nodejs)]()
-[![Mobile Development](https://skillicons.dev/icons?i=swift)]()
+[![Programming Languages](https://skillicons.dev/icons?i=js,ts,python,cs,net,nodejs)]()
 [![FED-Development](https://skillicons.dev/icons?i=nextjs,react,html,tailwind,css)]()
 [![Databases](https://skillicons.dev/icons?i=mongodb,mysql,postgresql)]()
 [![Cloud Platforms](https://skillicons.dev/icons?i=azure,aws)]()
