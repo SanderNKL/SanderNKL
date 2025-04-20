@@ -29,7 +29,5 @@ enough revenue to buy me my very first car.
 As of September 2024, me and some very good friends of mine founded a company called Nordev AS.
 The goal? To develop applications used world wide.
 
-I cannot reveal too much at this time, but time will tell what we have in store for the world.
-
 
 
